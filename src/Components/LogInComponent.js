@@ -1,3 +1,6 @@
+import React from 'react';
+import './LogInComponent.css';
+
 const LogInComponent = () => {
   return (
   <div>
