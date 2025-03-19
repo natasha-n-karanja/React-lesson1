@@ -1,7 +1,6 @@
 import { useState } from "react";
 import FormComponent from "./Components/FormComponent";
 import LogInComponent from "./Components/LogInComponent";
-
 const App = () => {
   const [formState, setFormState] = useState("register")
   const handleForm = (e) => {
